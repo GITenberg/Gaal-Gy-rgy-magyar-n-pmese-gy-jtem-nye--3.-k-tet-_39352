@@ -1,0 +1,38 @@
+_repo: Gaal-Gy-rgy-magyar-n-pmese-gy-jtem-nye--3.-k-tet-_39352
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaal, György
+    alias: Gaal, Gyorgy
+    birthdate: 1783
+    deathdate: 1855
+    gutenberg_agent_id: '39946'
+    url: http://www.gutenberg.org/2009/agents/39946
+    wikipedia: http://hu.wikipedia.org/wiki/Gaal_Gy%C3%B6rgy_%28%C3%ADr%C3%B3%29
+description: ''
+gutenberg_issued: '2012-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39352'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Hungary'
+- !lcc 'GR'
+- !lcsh 'Folk literature, Hungarian'
+- !lcc 'PH'
+tableOfContents: A Vénus madara -- Egy Tátosról -- A pelikán király -- Ördög leánya
+  -- Három királyleány -- Zöldike -- A szegény ember, ki az ördögöt megcsalta -- A
+  szalonnavár -- Babszem Jankó -- A kigyó-királyfi -- A bűbájos lakat -- Kökény Matyi
+  -- A tündérgyűrű -- A színváltozó királyné -- Kincskeresők -- Jóért jó -- Az ostobán
+  isten is csak bajjal segít -- Az aranyhajú hármasok -- A hatalmas síp -- A szerencsés
+  vándorlegény -- A kérkedés jutalma -- A szerencsétlenség jól esett -- Az irástudó
+  szegény fiu -- Könykeresztség -- A három vándorló legény -- Kalmár fia -- Apollónius
+  királyfi -- Halászmese.
+title: Gaal György magyar népmese-gyűjteménye (3. kötet)
+url: http://www.gutenberg.org/ebooks/39352
