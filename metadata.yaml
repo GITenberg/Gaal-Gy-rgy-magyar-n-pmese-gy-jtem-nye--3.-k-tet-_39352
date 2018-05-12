@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39946
     wikipedia: http://hu.wikipedia.org/wiki/Gaal_Gy%C3%B6rgy_%28%C3%ADr%C3%B3%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39352#Gaal-Gy-rgy-magyar-n-pmese-gy-jtem-nye--3.-k-tet-
 gutenberg_issued: '2012-04-02'
 gutenberg_type: Text
 identifiers:
